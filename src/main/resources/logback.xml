@@ -8,6 +8,7 @@
             </Pattern>
 
         </layout>
+        
     </appender>
 
     <logger name="com.njonecompany.web" level="debug"
